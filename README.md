@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vCard - Personal portfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
@@ -42,3 +43,7 @@ If you want to contact me you can reach me at [Twitter](https://www.twitter.com/
 ## License
 
 MIT
+=======
+# saiportfolio
+Mine Portfolio
+>>>>>>> e0763e43f575dcfd7df05190ed3c81be73b7f9b2
